@@ -1,0 +1,30 @@
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(107, 165, 241);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.432);
+
+    width: 70%;
+
+}
+
+footer{
+    font-style: italic;
+}
